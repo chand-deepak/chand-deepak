@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-  - mail: deepak-chand@eboltmobility.com
+  - mail: deepak.chand@eboltmobility.com
   
 
 <!---
